@@ -466,3 +466,7 @@ footer {
 footer p {
   text-align: center;
 }
+
+#contact a:hover {
+  cursor: pointer;
+}
